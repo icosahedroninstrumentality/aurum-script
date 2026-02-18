@@ -69,6 +69,17 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 | 269 | Filled triangle (down) | ▼ |
 | 270 | Filled triangle (left) | ◂ |
 | 271 | Filled triangle (right) | ▸ |
+| ... | Currently reseved section | |
+| 300 | Common numeral "zero" | 0 |
+| 301 | Common numeral "one" | 1 |
+| 302 | Common numeral "two" | 2 |
+| 303 | Common numeral "three" | 3 |
+| 304 | Common numeral "four" | 4 |
+| 305 | Common numeral "five" | 5 |
+| 306 | Common numeral "six" | 6 |
+| 307 | Common numeral "seven" | 7 |
+| 308 | Common numeral "eight" | 8 |
+| 309 | Common numeral "nine" | 9 |
 
 ### `512+` Latin (basic + extended for Western/Eastern European, Vietnamese, ASCII subset, etc.)
 
