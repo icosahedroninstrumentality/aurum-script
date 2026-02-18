@@ -49,7 +49,7 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 | 25 | Maintain font subscript | <sub>Sample text</sub> |
 | 26 | Maintain font reset | Sample text |
 
-### `256+` Common symbols
+### `256+` Universal/common symbols
 
 | Base number | Name | Unicode representation |
 | --- | --- | --- |
