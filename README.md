@@ -19,7 +19,7 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 
 ### `0+` Syntax rules
 
-| Base number | Name | Representation |
+| Base number | Name | Description / Sample |
 | --- | --- | --- |
 | 0 | Null | |
 | 1 | Hard deliminer | |
@@ -51,7 +51,7 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 
 ### `256+` Common symbols
 
-| Base number | Name | Representation |
+| Base number | Name | Unicode representation |
 | --- | --- | --- |
 | 256 | Horizonal line | ― |
 | 257 | Vertical line | \| |
@@ -72,7 +72,7 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 
 ### `512+` Latin (basic + extended for Western/Eastern European, Vietnamese, ASCII subset, etc.)
 
-| Base number | Name | Representation |
+| Base number | Name | Unicode representation |
 | --- | --- | --- |
 | 512 | Latin letter "A" | A |
 | 513 | Latin letter "B" | B |
@@ -168,7 +168,7 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 
 ### `768+` Cyrillic (basic + extended for Slavic and non-Slavic languages)
 
-| Base number | Name | Representation |
+| Base number | Name | Unicode representation |
 | --- | --- | --- |
 | 768 | Cyrillic letter "А" | А |
 | 769 | Cyrillic letter "Б" | Б |
@@ -271,10 +271,13 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 | 866 | Cyrillic letter "ү" | ү |
 | 867 | Cyrillic letter "ҳ" | ҳ |
 | 868 | Cyrillic letter "һ" | һ |
+| 867 | Cyrillic diactric "titlo" | ҃ |
+| 867 | Cyrillic diactric "pokrytie" | ҇ |
+| 868 | Cyrillic numeral "thousand" | ҂ |
 
 ### `1024+` Greek (including Coptic)
 
-| Base number | Name | Representation |
+| Base number | Name | Unicode representation |
 | --- | --- | --- |
 | 1024 | Greek letter "Α" | Α |
 | 1025 | Greek letter "Β" | Β |
