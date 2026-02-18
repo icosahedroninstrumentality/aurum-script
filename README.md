@@ -11,7 +11,7 @@ There's a few base symbols that combine to create most of the modern symbols any
 
 Symbols refer to any visual stroke or syntax rule.
 
-Joining symbols is the process of taking a list of symbols that do not include any B0-2 bases, ignoring syntax bases, then going from start to finish, joining together the largest groups of symbols based on join rules.
+Joining symbols is the process of taking a list of symbols that do not include any B0-2 bases, and going from start to finish, joining together the largest groups of symbols based on join rules.
 
 Join rules are the basis of complex symbols. They define how 2 or more symbols join to become a more complex shape. These join rules are there to represent more complex shapes that cannot fit in the bases and still is required to be a single symbol. This is useful for font ligatures, support for symbols outside the immediate base group and conversion between text encoding formats. Fonts or rendering systems must define these join rules themselves.
 
@@ -273,6 +273,105 @@ Join rules are the basis of complex symbols. They define how 2 or more symbols j
 | 868 | Cyrillic letter "һ" | һ |
 
 ### `1024+` Greek (including Coptic)
+
+| Base number | Name | Representation |
+| --- | --- | --- |
+| 1024 | Greek letter "Α" | Α |
+| 1025 | Greek letter "Β" | Β |
+| 1026 | Greek letter "Γ" | Γ |
+| 1027 | Greek letter "Δ" | Δ |
+| 1028 | Greek letter "Ε" | Ε |
+| 1029 | Greek letter "Ζ" | Ζ |
+| 1030 | Greek letter "Η" | Η |
+| 1031 | Greek letter "Θ" | Θ |
+| 1032 | Greek letter "Ι" | Ι |
+| 1033 | Greek letter "Κ" | Κ |
+| 1034 | Greek letter "Λ" | Λ |
+| 1035 | Greek letter "Μ" | Μ |
+| 1036 | Greek letter "Ν" | Ν |
+| 1037 | Greek letter "Ξ" | Ξ |
+| 1038 | Greek letter "Ο" | Ο |
+| 1039 | Greek letter "Π" | Π |
+| 1040 | Greek letter "Ρ" | Ρ |
+| 1041 | Greek letter "Σ" | Σ |
+| 1042 | Greek letter "Τ" | Τ |
+| 1043 | Greek letter "Υ" | Υ |
+| 1044 | Greek letter "Φ" | Φ |
+| 1045 | Greek letter "Χ" | Χ |
+| 1046 | Greek letter "Ψ" | Ψ |
+| 1047 | Greek letter "Ω" | Ω |
+| 1048 | Greek letter "α" | α |
+| 1049 | Greek letter "β" | β |
+| 1050 | Greek letter "γ" | γ |
+| 1051 | Greek letter "δ" | δ |
+| 1052 | Greek letter "ε" | ε |
+| 1053 | Greek letter "ζ" | ζ |
+| 1054 | Greek letter "η" | η |
+| 1055 | Greek letter "θ" | θ |
+| 1056 | Greek letter "ι" | ι |
+| 1057 | Greek letter "κ" | κ |
+| 1058 | Greek letter "λ" | λ |
+| 1059 | Greek letter "μ" | μ |
+| 1060 | Greek letter "ν" | ν |
+| 1061 | Greek letter "ξ" | ξ |
+| 1062 | Greek letter "ο" | ο |
+| 1063 | Greek letter "π" | π |
+| 1064 | Greek letter "ρ" | ρ |
+| 1065 | Greek letter "σ" | σ |
+| 1066 | Greek letter "τ" | τ |
+| 1067 | Greek letter "υ" | υ |
+| 1068 | Greek letter "φ" | φ |
+| 1069 | Greek letter "χ" | χ |
+| 1070 | Greek letter "ψ" | ψ |
+| 1071 | Greek letter "ω" | ω |
+| 1072 | Greek letter "ς" | ς |
+| 1073 | Coptic Capital "Šai" | Ϣ |
+| 1074 | Coptic Small "šai" | ϣ |
+| 1075 | Coptic Capital "Hori" | Ϥ |
+| 1076 | Coptic Small "hori" | ϥ |
+| 1077 | Coptic Capital "Gangia" | Ϧ |
+| 1078 | Coptic Small "gangia" | ϧ |
+| 1079 | Coptic Capital "Bau" | Ϩ |
+| 1080 | Coptic Small "bau" | ϩ |
+| 1081 | Coptic Capital "Čima" | Ϫ |
+| 1082 | Coptic Small "čima" | ϫ |
+| 1083 | Coptic Capital "Ti" | Ϭ |
+| 1084 | Coptic Small "ti" | ϭ |
+| 1085 | Coptic Capital "Kji" | Ϯ |
+| 1086 | Coptic Small "kji" | ϯ |
+| 1087 | Greek Capital "Digamma" | Ϝ |
+| 1088 | Greek Small "digamma" | ϝ |
+| 1089 | Greek Capital "Stigma" | Ϛ |
+| 1090 | Greek Small "stigma" | ϛ |
+| 1091 | Greek Capital "Koppa" | Ϙ |
+| 1092 | Greek Small "koppa" | ϙ |
+| 1093 | Greek Capital "Sampi" | Ϡ |
+| 1094 | Greek Small "sampi" | ϡ |
+| 1095 | Coptic Capital "Old Coptic Esh" | Ⲁ |
+| 1096 | Coptic Small "Old Coptic Esh" | ⲁ |
+| 1097 | Coptic Capital "Old Coptic Hori" | Ⲃ |
+| 1098 | Coptic Small "Old Coptic Hori" | ⲃ |
+| 1099 | Coptic Capital "Old Coptic Ha" | Ⲅ |
+| 1100 | Coptic Small "Old Coptic Ha" | ⲅ |
+| 1101 | Coptic Capital "Old Coptic Shei" | Ⲋ |
+| 1102 | Coptic Small "Old Coptic Shei" | ⲋ |
+| 1103 | Coptic Capital "Old Coptic Fei" | Ⲍ |
+| 1104 | Coptic Small "Old Coptic Fei" | ⲍ |
+| 1105 | Coptic Capital "Old Coptic Khat" | Ⲑ |
+| 1106 | Coptic Small "Old Coptic Khat" | ⲑ |
+| 1107 | Greek Ano Teleia (High Dot) | · |
+| 1108 | Greek Hyphen | ͺ |
+| 1109 | Greek Koronis | ̓ |
+| 1110 | Greek Dialytika Tonos | ̈́ |
+| 1111 | Greek Lower Numeral Sign | ͵ |
+| 1112 | Greek Numeral Sign | ʹ |
+| 1113 | Coptic Old Nubian Full Stop | ⳾ |
+| 1114 | Coptic Old Nubian Comma | ⳿ |
+| 1115 | Coptic Cross (Stauros) | ⳨ |
+| 1116 | Coptic Capital "Cyrillic" Es | Ⲥ |
+| 1117 | Coptic Small "Cyrillic" es | ⲥ |
+| 1118 | Coptic Combining Long Stroke | ⳰ |
+| 1119 | Coptic Combining Vowel Mark | ⳱ |
 
 ### `1280+` Arabic (basic letters, diacritics, and presentation forms)
 
