@@ -1,6 +1,6 @@
 # Aurum Script
 
-This is a simplistic text encoding format that focuses on ligatures; joining multiple base symbols into more complex shapes.
+This is a simplistic text encoding format that focuses on character grouping; joining multiple base symbols into more complex shapes.
 
 There's a few base symbols that combine to create most of the modern symbols anyone would need and want for communication. Each base is exactly 16 bits, giving 65536 possible bases.
 
